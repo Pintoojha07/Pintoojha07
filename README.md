@@ -4,7 +4,7 @@
 
 I'm passionate about **Data Analytics and Full Stack Web Development**. I enjoy exploring data, building responsive web applications, solving technical problems, and creating meaningful digital experiences.
 
-📧 **Email:** mailto:Pintoojha213@gmail.com
+📧 **Email:** Pintoojha213@gmail.com
 
 ---
 
